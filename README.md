@@ -1,2 +1,2 @@
 # boston-dataset-exercise-islp
-Based off the book "An Introduction to Statistical Learning: With Applications in Python", Chapter 2 Applied Exercise No. 10.
+Based off the book "An Introduction to Statistical Learning: With Applications in Python", exercise 2.10. Thank you for the authors: Gareth James , Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor for providing me with free, accessible knowledge.
